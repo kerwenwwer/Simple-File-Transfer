@@ -1,0 +1,5 @@
+.DS_Store
+src/build/
+src/client
+src/server
+
